@@ -1,0 +1,60 @@
+Date : 2025-10-30 16:58:59
+Directory : /Users/darrellparkhouse/development/react/kanban-board-react-pro
+Total : 20 files,  1863 codes, 1 comments, 204 blanks, all 2068 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JavaScript JSX |          8 |      1,043 |          0 |        118 |      1,161 |
+| JavaScript     |          7 |        751 |          1 |         76 |        828 |
+| PostCSS        |          2 |         54 |          0 |          9 |         63 |
+| HTML           |          1 |         13 |          0 |          1 |         14 |
+| XML            |          2 |          2 |          0 |          0 |          2 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                         |         20 |      1,863 |          1 |        204 |      2,068 |
+| . (Files)                                                                                                 |          3 |         46 |          1 |          5 |         52 |
+| public                                                                                                    |          1 |          1 |          0 |          0 |          1 |
+| src                                                                                                       |         16 |      1,816 |          0 |        199 |      2,015 |
+| src (Files)                                                                                               |          4 |         71 |          0 |         14 |         85 |
+| src/assets                                                                                                |          1 |          1 |          0 |          0 |          1 |
+| src/components                                                                                            |         10 |      1,467 |          0 |        158 |      1,625 |
+| src/components/Board                                                                                      |          2 |        361 |          0 |         40 |        401 |
+| src/components/Card                                                                                       |          2 |        175 |          0 |         26 |        201 |
+| src/components/List                                                                                       |          2 |        309 |          0 |         25 |        334 |
+| src/components/Modal                                                                                      |          2 |        410 |          0 |         44 |        454 |
+| src/components/Toolbar                                                                                    |          2 |        212 |          0 |         23 |        235 |
+| src/context                                                                                               |          1 |        277 |          0 |         27 |        304 |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                                  | language       | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/eslint.config.js                         | JavaScript     |         28 |          0 |          2 |         30 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/index.html                               | HTML           |         13 |          0 |          1 |         14 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/public/vite.svg                          | XML            |          1 |          0 |          0 |          1 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/App.css                              | PostCSS        |         37 |          0 |          6 |         43 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/App.jsx                              | JavaScript JSX |          5 |          0 |          3 |          8 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/assets/react.svg                     | XML            |          1 |          0 |          0 |          1 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Board/Board.jsx           | JavaScript JSX |        212 |          0 |         25 |        237 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Board/Board.styles.js     | JavaScript     |        149 |          0 |         15 |        164 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Card/Card.jsx             | JavaScript JSX |         95 |          0 |         15 |        110 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Card/Card.styles.js       | JavaScript     |         80 |          0 |         11 |         91 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/List/List.jsx             | JavaScript JSX |        157 |          0 |         10 |        167 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/List/List.styles.js       | JavaScript     |        152 |          0 |         15 |        167 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Modal/CardModal.jsx       | JavaScript JSX |        190 |          0 |         22 |        212 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Modal/CardModal.styles.js | JavaScript     |        220 |          0 |         22 |        242 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Toolbar/Toolbar.jsx       | JavaScript JSX |         95 |          0 |         14 |        109 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Toolbar/Toolbar.styles.js | JavaScript     |        117 |          0 |          9 |        126 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/context/BoardContext.jsx             | JavaScript JSX |        277 |          0 |         27 |        304 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/index.css                            | PostCSS        |         17 |          0 |          3 |         20 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/src/main.jsx                             | JavaScript JSX |         12 |          0 |          2 |         14 |
+| /Users/darrellparkhouse/development/react/kanban-board-react-pro/vite.config.js                           | JavaScript     |          5 |          1 |          2 |          8 |
+| Total                                                                                                     |                |      1,863 |          1 |        204 |      2,068 |
++-----------------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

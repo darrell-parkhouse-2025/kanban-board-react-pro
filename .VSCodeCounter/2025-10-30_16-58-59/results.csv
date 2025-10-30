@@ -1,0 +1,22 @@
+"filename", "language", "HTML", "JavaScript", "XML", "JavaScript JSX", "PostCSS", "comment", "blank", "total"
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/eslint.config.js", "JavaScript", 0, 28, 0, 0, 0, 0, 2, 30
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/index.html", "HTML", 13, 0, 0, 0, 0, 0, 1, 14
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/public/vite.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 1
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/App.css", "PostCSS", 0, 0, 0, 0, 37, 0, 6, 43
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/App.jsx", "JavaScript JSX", 0, 0, 0, 5, 0, 0, 3, 8
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/assets/react.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 1
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Board/Board.jsx", "JavaScript JSX", 0, 0, 0, 212, 0, 0, 25, 237
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Board/Board.styles.js", "JavaScript", 0, 149, 0, 0, 0, 0, 15, 164
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Card/Card.jsx", "JavaScript JSX", 0, 0, 0, 95, 0, 0, 15, 110
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Card/Card.styles.js", "JavaScript", 0, 80, 0, 0, 0, 0, 11, 91
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/List/List.jsx", "JavaScript JSX", 0, 0, 0, 157, 0, 0, 10, 167
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/List/List.styles.js", "JavaScript", 0, 152, 0, 0, 0, 0, 15, 167
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Modal/CardModal.jsx", "JavaScript JSX", 0, 0, 0, 190, 0, 0, 22, 212
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Modal/CardModal.styles.js", "JavaScript", 0, 220, 0, 0, 0, 0, 22, 242
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Toolbar/Toolbar.jsx", "JavaScript JSX", 0, 0, 0, 95, 0, 0, 14, 109
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/components/Toolbar/Toolbar.styles.js", "JavaScript", 0, 117, 0, 0, 0, 0, 9, 126
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/context/BoardContext.jsx", "JavaScript JSX", 0, 0, 0, 277, 0, 0, 27, 304
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/index.css", "PostCSS", 0, 0, 0, 0, 17, 0, 3, 20
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/src/main.jsx", "JavaScript JSX", 0, 0, 0, 12, 0, 0, 2, 14
+"/Users/darrellparkhouse/development/react/kanban-board-react-pro/vite.config.js", "JavaScript", 0, 5, 0, 0, 0, 1, 2, 8
+"Total", "-", 13, 751, 2, 1043, 54, 1, 204, 2068
